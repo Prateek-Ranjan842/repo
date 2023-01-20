@@ -1,0 +1,21 @@
+
+You : hello 
+Jarvis : Hello, how are you?
+You : hi 
+Jarvis : Hello, how are you?
+You :  
+Jarvis : Hello, how are you?
+You :  
+Jarvis : Hello, how are you?
+You : Hi! 
+Jarvis : Hello, how are you?
+You : HD 
+Jarvis : Hello, how are you?
+You : What are you doing 
+Jarvis : I am currently waiting for you to give me a command.
+You :  
+Jarvis : Hello, how are you?
+You : can you do for me 
+Jarvis : I am sorry, I cannot do that for you.
+You :  
+Jarvis : Hello, how are you?
